@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Winner
+comment0.text=\r\n\ Displays\ the\ winning\ message\r\n\ \r\n\ @author\ Jesus\ Cova\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Winner()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Winner\r\n
+comment2.params=
+comment2.target=void\ showWinner()
+comment2.text=\r\n\ The\ winning\ message\ of\ the\ winner\ is\ shown.\r\n
+numComments=3

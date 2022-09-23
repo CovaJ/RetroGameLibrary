@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Food
+comment0.text=\r\n\ Food\ class\ for\ the\ snake\ game\r\n\ \r\n\ @author\ Jesus\ Cova\ \r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ If\ body\ intersects\ with\ food,\ sets\ random\ location\ of\ food\r\n
+numComments=2

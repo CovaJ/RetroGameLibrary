@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ScoreLeft
+comment0.text=\r\n\ Displays\ the\ left\ player's\ score\r\n\ \r\n\ @author\ Jesus\ Cova\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=ScoreLeft()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ScoreLeft,\ sets\ default\ to\ 0\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\r\n
+comment3.params=
+comment3.target=void\ changeScoreLeft()
+comment3.text=\r\n\ Displays\ the\ score\ for\ the\ left\ player\r\n
+numComments=4

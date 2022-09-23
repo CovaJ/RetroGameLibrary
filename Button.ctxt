@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Multipurpose\ button\ class\ that\ makes\ a\ rectangle\ that\ can\ be\ clicked.\r\n\ This\ button\ will\ do\ nothing\ when\ clicked,\ but\ its\ subclasses\ will\ have\ a\ clicked\r\n\ method\ rather\ than\ an\ act\ method\ to\ control\ their\ behaviour\ when\ they\ are\ clicked\r\n\ \r\n\ @author\ Marco\r\n\ @version\ 1\r\n
+comment1.params=length\ height
+comment1.target=Button(int,\ int)
+comment1.text=\r\n\ Creates\ a\ rectangle\ with\ an\ image\r\n\ @param\ length\ is\ the\ horizontal\ size\ of\ the\ button\r\n\ @param\ height\ is\ the\ vertical\ size\ of\ the\ button\r\n
+comment2.params=
+comment2.target=void\ Clicked()
+comment2.text=\r\n\ This\ empty\ abstract\ method\ will\ be\ full\ in\ the\ subclasses,\ because\ buttons\ can\r\n\ perform\ different\ things\ when\ they\ are\ clicked\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Button\ subclasses\ will\ not\ normally\ have\ act\ methods,\ because\ all\ they\ can\ do\ is\ be\ clicked\r\n
+numComments=4

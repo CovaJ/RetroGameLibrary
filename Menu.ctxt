@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Menu\ where\ player\ can\ customize\ and\ start\ the\ game\r\n\ \r\n\ @author\ Jesus\ Cova\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Menu()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Menu\ where\ world\ is\ created\r\n\ and\ paddles\ and\ buttons\ are\ placed\r\n
+comment2.params=
+comment2.target=void\ sound3start()
+comment3.params=
+comment3.target=void\ sound3Stop()
+numComments=4

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Head
+comment0.text=\r\n\ Head\ of\ the\ snake\ that\ moves\ around\ and\ interacts\ with\ surroundings\r\n\ \r\n\ @author\ Jesus\ Cova\ \r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Head()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Head,\ sets\ default\ values\ for\ various\ \r\n\ variables\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\r\n
+comment3.params=
+comment3.target=void\ foundFood()
+comment3.text=\r\n\ Increases\ length\ of\ snake\ and\ increments\ counter\r\n
+comment4.params=
+comment4.target=boolean\ isAtEdge()
+comment4.text=\r\n\ Determines\ if\ the\ head\ has\ touched\ world\ boundaries\r\n
+comment5.params=
+comment5.target=void\ death()
+comment5.text=\r\n\ Kills\ snake\ and\ displays\ 'game\ over'\ screen\r\n
+comment6.params=
+comment6.target=int\ getScale()
+comment6.text=\r\n\ Gets\ the\ scale\ value\r\n\ \r\n\ @return\ integer\r\n
+comment7.params=
+comment7.target=boolean\ getAlive()
+comment7.text=\r\n\ Gets\ the\ alive\ value\r\n\ \r\n\ @return\ boolean\r\n
+numComments=8

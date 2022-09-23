@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TetrisEndScreen
+comment0.text=\r\n\ Tetris\ loss\ screen\ that\ displays\ the\ final\ score\r\n\ \r\n\ @author\ (Marco\ Calabretta)\r\n\ @version\ (1)\r\n
+comment1.params=score
+comment1.target=TetrisEndScreen(int)
+numComments=2

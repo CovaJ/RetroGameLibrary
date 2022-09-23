@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Timer
+comment0.text=\r\n\ A\ countdown\ from\ 3\ to\ 0,\ which\ starts\ the\ game\ as\ it\ hits\ 0\r\n\ \r\n\ @author\ Jesus\ Cova\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\r\n
+comment2.params=
+comment2.target=void\ countDown()
+comment2.text=\r\n\ Counts\ down\ from\ three\ to\ zero\r\n
+numComments=3

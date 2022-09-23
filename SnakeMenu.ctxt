@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SnakeMenu
+comment0.text=\r\n\ Displays\ the\ Snake\ game's\ 'menu'\ screen\r\n\ \r\n\ @author\ Jesus\ Cova\ \r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=SnakeMenu()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SnakeMenu,\ creates\ world,\ and\ adds\r\n\ the\ play\ button\ to\ the\ screen\r\n
+comment2.params=
+comment2.target=void\ startSound4()
+comment3.params=
+comment3.target=void\ stopSound4()
+numComments=4

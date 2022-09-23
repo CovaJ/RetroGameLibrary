@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TetrisCounter
+comment0.text=\r\n\ Displays\ the\ current\ score\ of\ the\ tetris\ game\r\n\ \r\n\ @author\ (Marco\ Calabretta)\ \r\n\ @version\ (1)\r\n
+comment1.params=height
+comment1.target=TetrisCounter(int)
+comment1.text=\r\n\ Makes\ a\ counter\r\n\ @param\ height\ is\ the\ side\ length\ of\ the\ counter\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Displays\ the\ score\r\n
+comment3.params=increment
+comment3.target=void\ addScore(int)
+comment3.text=\r\n\ Increments\ the\ score\r\n\ @param\ increment\ is\ the\ amount\ that\ the\ score\ changes\ by\r\n
+comment4.params=
+comment4.target=int\ getScore()
+comment4.text=\r\n\ Returns\ the\ current\ score\r\n
+numComments=5

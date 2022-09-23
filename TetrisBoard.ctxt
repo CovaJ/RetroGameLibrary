@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=TetrisBoard
+comment0.text=\r\n\ The\ board\ that\ tetris\ is\ played\ on.\ contains\ blocks\ organized\ in\ tetrominos\ and\ a\ counter\r\n\ \r\n\ @author\ Marco\ Calabretta\ \r\n\ @version\ 2\r\n
+comment1.params=
+comment1.target=TetrisBoard()
+comment1.text=\r\n\ makes\ a\ new\ tetris\ board\ with\ a\ counter\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ adds\ a\ tetromino\ if\ there\ is\ none\ and\ controls\ player\ movement\r\n
+comment3.params=
+comment3.target=void\ addTetromino()
+comment3.text=\r\n\ this\ will\ spawn\ a\ new\ random\ tetromino\r\n
+comment4.params=
+comment4.target=void\ removeTetromino()
+comment4.text=\r\n\ sets\ the\ tetromino\ to\ null\ so\ the\ board\ spawns\ a\ new\ tetromino\ automatically\r\n
+comment5.params=
+comment5.target=TetrisCounter\ getCounter()
+comment6.params=bottomY
+comment6.target=void\ dropBlocks(int)
+comment6.text=\r\n\ Runs\ every\ time\ a\ line\ is\ fully\ cleared\r\n\ Drops\ all\ blocks\ by\ 1\ block,\ unless\ they\ are\ part\ of\ the\ current\ tetromino\ or\ are\ below\ the\ cleared\ line\r\n\ @param\ bottomY\ is\ the\ y\ coordinate\ of\ the\ line\ that\ was\ just\ cleared\r\n
+comment7.params=
+comment7.target=void\ startSound()
+comment8.params=
+comment8.target=void\ stopSound()
+numComments=9

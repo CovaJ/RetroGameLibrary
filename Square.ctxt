@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Square
+comment0.text=\r\n\ A\ square\ on\ the\ minesweeper\ board\ that\ may/may\ not\ have\ a\ bomb\ behind\ it\ and\ that\ can\r\n\ be\ flagged\ and\ clicked\r\n\ \r\n\ All\ the\ code\ for\ revealing\ and\ flagging\ the\ squares\ is\ stored\ here\ with\ some\ information\r\n\ back\ and\ forth\ with\ the\ MinesweeperBoard()\ class\r\n\ \r\n\ @author\ Marco\r\n\ @version\ 2\r\n
+comment1.params=length\ bomb\ index
+comment1.target=Square(int,\ boolean,\ int[])
+comment1.text=\r\n\ Creates\ a\ square\ on\ the\ minesweeper\ board\r\n\ @param\ length\ is\ the\ side\ length\ of\ the\ square\r\n\ @param\ bomb\ holds\ whether\ or\ not\ the\ square\ hides\ a\ bomb\r\n\ @param\ index\ holds\ two\ numbers\ holding\ the\ position\ of\ this\ particular\ square\ in\ the\ larger\ squares\ array\ of\ the\ board\r\n
+comment2.params=
+comment2.target=void\ Clicked()
+comment2.text=\r\n\ Will\ either\ flag/unflag\ the\ square\ or\ reveal\ its\ contents\ using\ the\ Reveal()\ method\r\n
+comment3.params=
+comment3.target=void\ Reveal()
+comment3.text=\r\n\ Counts\ the\ amount\ of\ bombs\ adjacent\ to\ the\ revealed\ square,\ then\ either\:\r\n\ displays\ the\ number\ (i.e.\ 3)\r\n\ if\ there\ are\ no\ adjacent\ bombs,\ it\ will\ not\ display\ a\ number\ and\ instead\ Reveal()\ all\ its\ adjacent\ squares\r\n\ then\ it\ will\ replace\ the\ square\ image\ with\ a\ new\ revealed\ square\ image\r\n
+comment4.params=
+comment4.target=boolean\ getBomb()
+comment4.text=\r\n\ Returns\ bomb\ status\r\n
+comment5.params=bomb
+comment5.target=void\ setBomb(boolean)
+comment5.text=\r\n\ Sets\ the\ bomb\ status\r\n\ @param\ bomb\ is\ the\ new\ bomb\ status\r\n
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MineSweeperCounter
+comment0.text=\r\n\ Counts\ the\ number\ of\ remaining\ bombs\ in\ a\ minesweeper\ game\ by\ subtracting\ the\ number\r\n\ of\ flagged\ squares\ from\ the\ original\ number\ of\ bombs\ on\ the\ board\r\n\ \r\n\ @author\ Marco\r\n\ @version\ 1\r\n
+comment1.params=bombs\ height
+comment1.target=MineSweeperCounter(int,\ int)
+comment1.text=\r\n\ Makes\ a\ counter\r\n\ @param\ bombs\ is\ the\ initial\ counter\ number\r\n\ @param\ height\ is\ the\ side\ length\ of\ the\ counter\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ only\ displays\ the\ remaining\ amoung\ of\ unflagged\ bombs\ according\ to\ the\ user's\ flags\r\n
+comment3.params=add
+comment3.target=void\ changeFlag(boolean)
+comment3.text=\r\n\ Increments\ the\ amount\ of\ flagged\ squares\ by\ 1\ in\ either\ direction\r\n\ @param\ add\ is\ true\ if\ a\ flag\ is\ being\ added,\ false\ if\ a\ flag\ is\ being\ removed\r\n
+numComments=4

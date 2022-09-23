@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Players
+comment0.text=\r\n\ Class\ for\ player\ paddles\r\n\ \r\n\ @author\ Jesus\ Cova\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Players()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Ball,\ sets\ player\ images\r\n
+comment2.params=
+comment2.target=boolean\ isAtUpperEdge()
+comment2.text=\r\n\ Determines\ if\ player\ has\ reached\ upper\ edge\ of\ world\r\n
+comment3.params=
+comment3.target=boolean\ isAtLowerEdge()
+comment3.text=\r\n\ Determines\ if\ player\ has\ reached\ lower\ edge\ of\ world\r\n
+numComments=4

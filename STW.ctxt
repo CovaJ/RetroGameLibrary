@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=STW
+comment0.text=\r\n\ Sets\ the\ score\ to\ win\ to\ a\ value\ from\ 1-5\r\n\ \r\n\ @author\ Jesus\ Cova\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=STW()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ STW,\ sets\ default\ image\ and\r\n\ score\ to\ win\ to\ 3\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\r\n
+comment3.params=
+comment3.target=void\ changeSTW()
+comment3.text=\r\n\ Changes\ value\ for\ the\ score\ to\ win\ as\ buttons\ to\ increase\ or\ decrease\r\n\ score\ to\ win\ are\ pressed\r\n
+numComments=4

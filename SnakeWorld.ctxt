@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SnakeWorld
+comment0.text=\r\n\ World\ of\ the\ game\ Snake\r\n\ \r\n\ @author\ Jesus\ Cova\ \r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=SnakeWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SnakeWorld,\ sets\ world,\ grid,\ and\ adds\r\n\ objects\ to\ the\ world\r\n
+numComments=2

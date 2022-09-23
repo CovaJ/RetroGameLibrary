@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SnakeGameOver
+comment0.text=\r\n\ Displays\ the\ Snake\ game's\ 'game\ over'\ screen\r\n\ \r\n\ @author\ Jesus\ Cova\ \r\n\ @version\ 1\r\n
+comment1.params=length
+comment1.target=SnakeGameOver(int)
+comment1.text=\r\n\ Constructor\ for\ class\ SnakeGameOver,\ creates\ the\ world,\ \r\n\ adds\ buttons\ and\ score\ to\ the\ screen\r\n\ \r\n\ @param\ length\ integer\ value\ for\ the\ length\ of\ snake\r\n
+numComments=2

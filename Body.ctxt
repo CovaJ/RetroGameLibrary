@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Body
+comment0.text=\r\n\ Body\ of\ the\ snake\r\n\ \r\n\ @author\ Jesus\ Cova\ \r\n\ @version\ 1\r\n
+comment1.params=pLength\ rotation\ nextNode
+comment1.target=Body(int,\ int,\ Body)
+comment1.text=\r\n\ Constructor\ for\ body\ class\r\n\ \r\n\ @param\ pLength\ integer\ value\ for\ player\ length\r\n\ @param\ rotation\ integer\ value\ for\ player's\ rotation\r\n\ @param\ next\ body\ object\ for\ body\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\r\n
+comment3.params=
+comment3.target=void\ increase()
+comment3.text=\r\n\ Increases\ body\ length\r\n
+numComments=4

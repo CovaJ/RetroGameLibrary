@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PlayerLeft
+comment0.text=\r\n\ Class\ for\ left\ player's\ paddle\r\n\ \r\n\ @author\ Jesus\ Cova\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed.\r\n
+comment2.params=
+comment2.target=void\ moveVertically()
+comment2.text=\r\n\ Makes\ player\ move\ up\ or\ down\ based\ on\ pressed\ key\r\n
+comment3.params=
+comment3.target=void\ stopAtEdge()
+comment3.text=\r\n\ Prevents\ from\ player\ crossing\ world\ borders\r\n
+numComments=4

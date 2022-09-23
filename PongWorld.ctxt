@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PongWorld
+comment0.text=\r\n\ The\ pong\ world\ where\ the\ game\ is\ played\r\n\ \r\n\ @author\ Jesus\ Cova\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=PongWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PongWorld\ where\ world\ is\ created\ and\r\n\ paddles,\ scores,\ and\ ball\r\n
+numComments=2

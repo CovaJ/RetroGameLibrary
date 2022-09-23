@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=menuButton
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Button\ here.\r\n\ \r\n\ @author\ mattoe\r\n\ @version\ 1\r\n
+comment1.params=image\ link
+comment1.target=menuButton(java.lang.String,\ greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

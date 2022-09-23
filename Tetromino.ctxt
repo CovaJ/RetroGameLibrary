@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Tetromino
+comment0.text=\r\n\ A\ set\ of\ four\ TetrisBlock\ that\ move\ together\ until\ they\ hit\ the\ ground\r\n\ \r\n\ @author\ Marco\ Calabretta\r\n\ @version\ 2\r\n\ Note**\ there's\ a\ bug\ where\ tetrominos\ dont\ move\ the\ right\ amount\ sideways/rotating\ idk\ if\ the\ bug\ is\ here\ or\ in\ the\ TetrisBlock\ class\ file\r\n
+comment1.params=type\ board
+comment1.target=Tetromino(int,\ TetrisBoard)
+comment1.text=\r\n\ makes\ a\ set\ of\ four\ blocks\ in\ a\ specific\ shape\ at\ the\ top\ of\ the\ screen\r\n\ @param\ type\ is\ the\ index\ of\ the\ type\ of\ tetromino\ it\ is\ from\ the\ blocklist.\ I.E.\ 0\ is\ L,\ 6\ is\ T,\ etc\r\n\ @param\ world\ is\ the\ board\ that\ the\ tetromino\ is\ on\ in\ order\ to\ allow\ the\ tetromino\ to\ add\ blocks\ to\ that\ world\r\n
+comment2.params=
+comment2.target=void\ stopAll()
+comment2.text=\r\n\ Will\ run\ the\ stop\ method\ on\ all\ blocks\ contained\ in\ the\ tetromino,\ then\ will\r\n\ remove\ itself\ from\ the\ world\r\n
+comment3.params=
+comment3.target=boolean\ getMoving()
+comment3.text=\r\n\ returns\ whether\ or\ not\ the\ tetromino\ is\ moving\r\n\ @returns\ the\ tetromino's\ moving\ status\r\n
+comment4.params=
+comment4.target=TetrisBlock[]\ getBlocks()
+comment4.text=\r\n\ returns\ list\ of\ blocks\r\n\ @return\ the\ list\ of\ blocks\r\n
+comment5.params=
+comment5.target=void\ move()
+comment5.text=\r\n\ makes\ the\ tetromino\ fall\ the\ same\ amount\ as\ its\ blocks\r\n\ (int)\ and\ +0.5\ is\ to\ round\ it\r\n
+comment6.params=direction
+comment6.target=void\ shift(boolean)
+comment6.text=\r\n\ This\ method\ controls\ player\ movement.\ If\ it\ is\ activated\ it\ will\ move\ the\ tetromino\ 1\ square\ either\ left\ or\ right\r\n\ @param\ direction\ is\ true\ for\ moving\ right,\ false\ for\ moving\ left\r\n
+comment7.params=
+comment7.target=void\ rotate()
+comment7.text=\r\n\ rotates\ the\ tetromino\ 90\ degrees\ clockwise\ about\ its\ {0,0}\ point\r\n
+numComments=8
